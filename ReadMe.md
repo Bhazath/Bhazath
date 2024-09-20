@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Bhazath, a dedicated Administrator specializing
+"Hi, I'm Bhazath, an Administrator focused on system, server engineering."
 
 "Experienced Administrator with a strong focus on Linux systems, databases, and Vim. I enjoy solving complex challenges and optimizing infrastructure for performance and reliability. Always eager to learn and share knowledge within the tech community."
 
