@@ -1,5 +1,5 @@
 # 💫 About Me:
-Here's a refined version for a more polished look:
+Hi, I'm Bhazath, a dedicated Administrator specializing
 
 "Experienced Administrator with a strong focus on Linux systems, databases, and Vim. I enjoy solving complex challenges and optimizing infrastructure for performance and reliability. Always eager to learn and share knowledge within the tech community."
 
