@@ -1,5 +1,5 @@
 # 💫 About Me:
-Administrator and Devops, Linux and Oracle, Mysql, Vim, tmux, 
+Administrator and Linux Oracle, Mysql, Vim, tmux, 
 
 
 # 💻 Tech Stack:
