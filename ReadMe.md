@@ -1,5 +1,5 @@
 # 💫 About Me:
-"Hi, I'm Bhazath, an Administrator focused on server engineering."
+"Hi, I'm Bhazath, an Administrator focused on server, network and system."
 
 "I enjoy solving complex issues. Always eager to learn and share knowledge within the tech community."
 
